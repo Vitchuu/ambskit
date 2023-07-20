@@ -10,6 +10,7 @@ RUN apk update && \
     apk upgrade && \
     grep -v '^#' /extra-packages | xargs apk add
 RUN rm /extra-packages
+RUN chsh -s /bin/zsh
 
 RUN   ln -fs /bin/sh /usr/bin/sh && \
       ln -fs /usr/bin/distrobox-host-exec /usr/local/bin/docker && \
