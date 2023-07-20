@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2023-07-20)
+
+
+### Features
+
+* Added automatic zsh setup ([96604bc](https://github.com/Vitchuu/ambskit/commit/96604bc6787eb2ff86d82eccb42e85c6171fb52a))
+* Removed helix. Added other packages of choice ([3f6ba78](https://github.com/Vitchuu/ambskit/commit/3f6ba78bceabfabb839cc23eab9a70abb00292b7))
+
 ## 1.0.0 (2023-02-04)
 
 
