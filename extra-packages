@@ -11,8 +11,10 @@ exa
 ffmpeg
 fzf
 github-cli
-helix
+neovim
 just
+lf
+lazygit
 make
 micro
 ncdu
@@ -22,6 +24,7 @@ neovim
 npm
 plocate
 python3
+php
 ripgrep
 speedtest-cli
 starship
@@ -29,3 +32,5 @@ vimdiff
 wl-clipboard
 zellij
 zstd
+zsh
+zoxide
