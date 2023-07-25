@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Vitchuu/ambskit/compare/v1.0.0...v1.1.0) (2023-07-25)
+
+
+### Features
+
+* Changed name of image ([609d794](https://github.com/Vitchuu/ambskit/commit/609d79426d5e7eb1c231c471211e6ed5b4daead6))
+
 ## 1.0.0 (2023-07-20)
 
 
