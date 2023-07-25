@@ -26,4 +26,4 @@ Use `chezmoi` to pull down your dotfiles and set up git sync.
 
 Head to the upstream repo at the top of the page. You should fork that, not this fork.
 
-The user experience is much nicer if you [set your terminal open right in the container](https://distrobox.privatedns.org/useful_tips.html#using-distrobox-as-main-cli) and is the intended experience.
+The user experience is much nicer if you set your terminal to open right in the container and is the intended experience. You can do this by applying it in a setting in your terminal (Black Box and Gnome Terminal have this functionality for example) or in your `.bashrc`.
