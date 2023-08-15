@@ -18,6 +18,13 @@ If you use toolbx:
     toolbox create -i ghcr.io/vitchuu/ambskit
     toolbox enter ambskit
 
+### Using ZSH
+
+While this image comes with ZSH, it doesn't enable it out of the box (If you know how, please let me know!)
+However, you can enable it by running
+
+    chsh -s /bin/zsh
+
 ### Pull down your config
 
 Use `chezmoi` to pull down your dotfiles and set up git sync.
