@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Vitchuu/ambskit/compare/v1.1.0...v1.2.0) (2023-08-15)
+
+
+### Features
+
+* Added xeyes (for checking what's running on xwayland and what's on wayland natively.) ([161a2bd](https://github.com/Vitchuu/ambskit/commit/161a2bd53175fe5256fd856ea5f0db6544508bfb))
+
 ## [1.1.0](https://github.com/Vitchuu/ambskit/compare/v1.0.0...v1.1.0) (2023-07-25)
 
 
