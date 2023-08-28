@@ -30,6 +30,7 @@ plocate
 python3
 php
 ripgrep
+redis
 speedtest-cli
 starship
 samba-client
