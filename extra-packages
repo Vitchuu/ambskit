@@ -2,6 +2,7 @@ age
 atuin
 btop
 bat
+busybox-extras
 chezmoi
 clipboard
 cosign
@@ -22,6 +23,8 @@ ncurses
 neofetch
 neovim
 npm
+nmap
+nmap-scripts
 plocate
 python3
 php
