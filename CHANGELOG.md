@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.3.0](https://github.com/Vitchuu/ambskit/compare/v1.2.0...v1.3.0) (2023-08-28)
+
+
+### Features
+
+* Added lftp ([e041863](https://github.com/Vitchuu/ambskit/commit/e041863a7489b716e344a66dab01e77c5d9ffb84))
+* Added openvpn link, nmap & busybox-extras ([cea62b9](https://github.com/Vitchuu/ambskit/commit/cea62b93a992fd5c8c308ff6af002e0807cc678c))
+* Added samba-client ([c737b55](https://github.com/Vitchuu/ambskit/commit/c737b5543a6318b3362c000872c395f5acfc6182))
+* Removed openvpn link cause I broke it. I'll start building the image before pushing someday lmfao ([5bdb5fa](https://github.com/Vitchuu/ambskit/commit/5bdb5faf5eb927b8ea8acdebec2bb2274d6a646c))
+
+
+### Bug Fixes
+
+* Fixed openvpn link ([01c5f31](https://github.com/Vitchuu/ambskit/commit/01c5f3162ee39cfe4a2b03da8c210afb4815cd5b))
+
 ## [1.2.0](https://github.com/Vitchuu/ambskit/compare/v1.1.0...v1.2.0) (2023-08-15)
 
 
