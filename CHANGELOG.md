@@ -8,8 +8,6 @@
 * Switched from Alpine to Arch. Changed around a lot of packages and I don't feel like writing it down for this simple personal image.
 
 ### Features
-
-* Added redis ([8655b9c](https://github.com/Vitchuu/ambskit/commit/8655b9c517bd5e7843dd2e0c91d9deb54b17a9fc))
 * Removed extra-packages file (No longer needed) ([7de99b2](https://github.com/Vitchuu/ambskit/commit/7de99b2ffe4f5396d12e13e3ed393977831198aa))
 * Switched from Alpine to Arch. Changed around a lot of packages and I don't feel like writing it down for this simple personal image. ([1309d17](https://github.com/Vitchuu/ambskit/commit/1309d175931a925985a9c5da89e7ff199d2cf391))
 
