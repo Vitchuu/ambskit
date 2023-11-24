@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Vitchuu/ambskit/compare/v1.3.0...v2.0.0) (2023-11-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* Switched from Alpine to Arch. Changed around a lot of packages and I don't feel like writing it down for this simple personal image.
+
+### Features
+* Removed extra-packages file (No longer needed) ([7de99b2](https://github.com/Vitchuu/ambskit/commit/7de99b2ffe4f5396d12e13e3ed393977831198aa))
+* Switched from Alpine to Arch. Changed around a lot of packages and I don't feel like writing it down for this simple personal image. ([1309d17](https://github.com/Vitchuu/ambskit/commit/1309d175931a925985a9c5da89e7ff199d2cf391))
+
 ## [1.3.0](https://github.com/Vitchuu/ambskit/compare/v1.2.0...v1.3.0) (2023-08-28)
 
 
