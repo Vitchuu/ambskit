@@ -9,11 +9,8 @@ RUN pacman -Syu --noconfirm && \
             btop \
             bat \
             chezmoi \
-            direnv \
-            ffmpeg \
             lf \
             lazygit \
-            neofetch \
             npm \
             ripgrep \
             rustup \
