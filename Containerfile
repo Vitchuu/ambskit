@@ -6,28 +6,28 @@ LABEL com.github.containers.toolbox="true" \
 
 RUN pacman -Syu --noconfirm && \
       pacman -S --noconfirm \
-            btop \
             bat \
+            btop \
             chezmoi \
-            lf \
-            lazygit \
             helix \
+            lazygit \
+            lf \
+            marksman \
             npm \
+            prettier \
             ripgrep \
             rustup \
             starship \
-            wl-clipboard \
-            zellij \
-            zsh \
-            zoxide \
+            svelte-language-server \
             typescript \
             typescript-language-server \
-            svelte-language-server \
             vscode-css-languageserver \
             vscode-html-languageserver \
             vscode-json-languageserver \
-            marksman \
-            prettier && \
+            wl-clipboard \
+            zellij \
+            zoxide \
+            zsh && \
                   npm i -g \
                   @olrtg/emmet-language-server \
                   @prisma/language-server \
