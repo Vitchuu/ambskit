@@ -11,6 +11,7 @@ RUN pacman -Syu --noconfirm && \
             chezmoi \
             lf \
             lazygit \
+            helix \
             npm \
             ripgrep \
             rustup \
@@ -18,4 +19,15 @@ RUN pacman -Syu --noconfirm && \
             wl-clipboard \
             zellij \
             zsh \
-            zoxide
+            zoxide \
+            typescript \
+            typescript-language-server \
+            svelte-language-server \
+            vscode-css-languageserver \
+            vscode-html-languageserver \
+            vscode-json-languageserver \
+            marksman \
+            prettier && \
+                  npm i -g \
+                  @olrtg/emmet-language-server \
+                  @prisma/language-server \
