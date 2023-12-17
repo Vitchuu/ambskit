@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/Amberwq/ambskit/compare/v2.1.0...v2.2.0) (2023-12-17)
+
+
+### Features
+
+* Added helix + language servers ([fdf786e](https://github.com/Amberwq/ambskit/commit/fdf786e78631a2e260ec3137b15dbdc561e71cf5))
+
 ## [2.1.0](https://github.com/Amberwq/ambskit/compare/v2.0.0...v2.1.0) (2023-12-16)
 
 
