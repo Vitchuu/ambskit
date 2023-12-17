@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/Amberwq/ambskit/compare/v2.0.0...v2.1.0) (2023-12-16)
+
+
+### Features
+
+* Removed unneeded packages ([9375ccc](https://github.com/Amberwq/ambskit/commit/9375ccc0635c8e623a3741d18e212efe60187fd4))
+
 ## [2.0.0](https://github.com/Vitchuu/ambskit/compare/v1.3.0...v2.0.0) (2023-11-24)
 
 
