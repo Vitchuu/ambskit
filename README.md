@@ -18,12 +18,12 @@ If you use toolbx:
     toolbox create -i ghcr.io/amberwq/ambskit
     toolbox enter ambskit
 
-### Using ZSH
+### Using FISH
 
-While this image comes with ZSH, it doesn't enable it out of the box (If you know how, please let me know!)
+While this image comes with `fish`, it doesn't enable it out of the box (If you know how, please let me know!)
 However, you can enable it by running
 
-    chsh -s /bin/zsh
+    chsh -s /usr/bin/fish
 
 ### Pull down your config
 
