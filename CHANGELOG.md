@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.0](https://github.com/Amberwq/ambskit/compare/v2.2.0...v2.3.0) (2024-01-02)
+
+
+### Features
+
+* Added lua LSP ([acbd099](https://github.com/Amberwq/ambskit/commit/acbd099d19ac81869365108e9923e83856fefcda))
+* Switched ZSH for fish ([02761ad](https://github.com/Amberwq/ambskit/commit/02761ade8f3e4b837dcf72fc23e06fc0e6595c25))
+
 ## [2.2.0](https://github.com/Amberwq/ambskit/compare/v2.1.0...v2.2.0) (2023-12-17)
 
 
