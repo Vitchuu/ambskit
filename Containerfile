@@ -29,6 +29,8 @@ RUN pacman -Syu --noconfirm && \
             zellij \
             zoxide \
             zsh && \
-                  npm i -g \
-                  @olrtg/emmet-language-server \
-                  @prisma/language-server \
+            && \
+
+      npm i -g \
+            @olrtg/emmet-language-server \
+            @prisma/language-server \
