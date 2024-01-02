@@ -12,6 +12,7 @@ RUN pacman -Syu --noconfirm && \
             helix \
             lazygit \
             lf \
+            lua-language-server \
             marksman \
             npm \
             prettier \
