@@ -10,20 +10,20 @@ It is indended for my personal use but is open for others to use. I recommend fo
 
 If you use distrobox:
 
-    distrobox create -i ghcr.io/vitchuu/ambskit
+    distrobox create -i ghcr.io/amberwq/ambskit
     distrobox enter ambskit
 
 If you use toolbx:
 
-    toolbox create -i ghcr.io/vitchuu/ambskit
+    toolbox create -i ghcr.io/amberwq/ambskit
     toolbox enter ambskit
 
-### Using ZSH
+### Using FISH
 
-While this image comes with ZSH, it doesn't enable it out of the box (If you know how, please let me know!)
+While this image comes with `fish`, it doesn't enable it out of the box (If you know how, please let me know!)
 However, you can enable it by running
 
-    chsh -s /bin/zsh
+    chsh -s /usr/bin/fish
 
 ### Pull down your config
 

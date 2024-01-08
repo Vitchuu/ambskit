@@ -10,6 +10,7 @@ RUN pacman -Syu --noconfirm && \
             bat \
             btop \
             chezmoi \
+            fish \
             helix \
             lazygit \
             lf \
@@ -18,6 +19,7 @@ RUN pacman -Syu --noconfirm && \
             libxi \
             libxkbcommon \
             libxrandr \
+            lua-language-server \
             marksman \
             npm \
             pipewire-alsa \
@@ -35,7 +37,8 @@ RUN pacman -Syu --noconfirm && \
             wl-clipboard \
             zellij \
             zoxide \
-            zsh && \
-                  npm i -g \
-                  @olrtg/emmet-language-server \
-                  @prisma/language-server \
+            && \
+
+      npm i -g \
+            @olrtg/emmet-language-server \
+            @prisma/language-server \
