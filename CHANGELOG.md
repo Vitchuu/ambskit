@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/Amberwq/ambskit/compare/v2.3.0...v2.4.0) (2024-01-08)
+
+
+### Features
+
+* Added bevy dependencies ([bd07f42](https://github.com/Amberwq/ambskit/commit/bd07f424381c52c5fb762b464f1cc082a10bee85))
+
 ## [2.3.0](https://github.com/Amberwq/ambskit/compare/v2.2.0...v2.3.0) (2024-01-02)
 
 
