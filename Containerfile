@@ -6,14 +6,22 @@ LABEL com.github.containers.toolbox="true" \
 
 RUN pacman -Syu --noconfirm && \
       pacman -S --noconfirm \
+            alsa-lib \
             bat \
             btop \
             chezmoi \
             helix \
             lazygit \
             lf \
+            libx11 \
+            libxcursor \
+            libxi \
+            libxkbcommon \
+            libxrandr \
             marksman \
             npm \
+            pipewire-alsa \
+            pkgconf  \
             prettier \
             ripgrep \
             rustup \
