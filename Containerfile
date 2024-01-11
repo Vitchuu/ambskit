@@ -29,6 +29,7 @@ RUN pacman -Syu --noconfirm && \
             rustup \
             starship \
             svelte-language-server \
+            systemd \
             typescript \
             typescript-language-server \
             vscode-css-languageserver \

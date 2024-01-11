@@ -10,13 +10,8 @@ It is indended for my personal use but is open for others to use. I recommend fo
 
 If you use distrobox:
 
-    distrobox create -i ghcr.io/amberwq/ambskit
+    distrobox create -i ghcr.io/amberwq/ambskit --init
     distrobox enter ambskit
-
-If you use toolbx:
-
-    toolbox create -i ghcr.io/amberwq/ambskit
-    toolbox enter ambskit
 
 ### Using FISH
 
