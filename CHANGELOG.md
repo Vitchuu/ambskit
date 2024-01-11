@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/Amberwq/ambskit/compare/v2.4.0...v2.5.0) (2024-01-11)
+
+
+### Features
+
+* Added systemd and docs on how to use it. ([3234278](https://github.com/Amberwq/ambskit/commit/32342787bf0eadce6dce232e51d96348a1f6ad9f))
+
 ## [2.4.0](https://github.com/Amberwq/ambskit/compare/v2.3.0...v2.4.0) (2024-01-08)
 
 
