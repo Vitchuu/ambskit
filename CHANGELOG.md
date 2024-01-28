@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.0](https://github.com/Amberwq/ambskit/compare/v2.5.0...v2.6.0) (2024-01-28)
+
+
+### Features
+
+* Added paru & Omnisharp ([6063836](https://github.com/Amberwq/ambskit/commit/60638360dc8d7f2071615a92f85b7458c7908024))
+
 ## [2.5.0](https://github.com/Amberwq/ambskit/compare/v2.4.0...v2.5.0) (2024-01-11)
 
 
