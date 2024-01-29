@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://github.com/Amberwq/ambskit/compare/v2.6.0...v2.7.0) (2024-01-29)
+
+
+### Features
+
+* Added rust-analyzer ([1e5fefa](https://github.com/Amberwq/ambskit/commit/1e5fefa7465ef4cb934dd05a9df69e8a3e052592))
+
 ## [2.6.0](https://github.com/Amberwq/ambskit/compare/v2.5.0...v2.6.0) (2024-01-28)
 
 
