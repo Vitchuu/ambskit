@@ -39,6 +39,7 @@ RUN pacman -Syu --noconfirm && \
             pkgconf  \
             prettier \
             ripgrep \
+            rust-analyzer \
             rustup \
             starship \
             svelte-language-server \
