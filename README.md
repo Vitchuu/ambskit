@@ -1,3 +1,5 @@
+# THIS IS BROKEN AND I DO NOT INTEND ON FIXING IT.
+
 # ambskit
 
 A tweaked version of boxkit, made by Amber.
